@@ -30,51 +30,9 @@ Before you can use this Hinglish Translation model, you will need the following:
 ### Installation
 
 1. Clone this repository:
-
-   ```bash
    git clone https://github.com/SIDDU-9494/hinglish.git
 pip install -r requirements.txt
 
-
-Certainly, here's a sample README file for a Hinglish Translation model:
-
-markdown
-Copy code
-# Hinglish Translation Model
-
-## Overview
-
-This repository contains a Hinglish Translation model, which translates English text into Hinglish (a blend of Hindi and English). Hinglish is often used in multilingual and multicultural communities, making it a valuable tool for communication.
-
-## Table of Contents
-
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-  - [Running the Model](#running-the-model)
-  - [Example Usage](#example-usage)
-- [Performance Evaluation](#performance-evaluation)
-  - [Metrics](#metrics)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
-
-## Getting Started
-
-### Prerequisites
-
-Before you can use this Hinglish Translation model, you will need the following:
-
-- Python 3.x
-- The `transformers` library: You can install it using `pip install transformers`
-
-### Installation
-
-1. Clone this repository:
-   git clone https://github.com/yourusername/hinglish-translation-model.git
-Install the required dependencies:
-pip install -r requirements.txt
 ### Usage
 ## Running the Model
 To translate English text into Hinglish using this model, you can use the provided script translate.py. Here's how to use it:
